@@ -1,0 +1,17 @@
+D:\Projects\PoliceInformationManagementSystem\PIMS\PIMS.Client\wwwroot\css\open-iconic\font\fonts\open-iconic.otf
+D:\Projects\PoliceInformationManagementSystem\PIMS\PIMS.Client\wwwroot\css\open-iconic\font\fonts\open-iconic.svg
+D:\Projects\PoliceInformationManagementSystem\PIMS\PIMS.Client\wwwroot\css\open-iconic\README.md
+D:\Projects\PoliceInformationManagementSystem\PIMS\PIMS.Client\wwwroot\css\app.css
+D:\Projects\PoliceInformationManagementSystem\PIMS\PIMS.Client\wwwroot\favicon.ico
+D:\Projects\PoliceInformationManagementSystem\PIMS\PIMS.Client\wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css
+wwwroot\css\app.css
+wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css
+wwwroot\css\open-iconic\font\fonts\open-iconic.eot
+wwwroot\css\open-iconic\font\fonts\open-iconic.otf
+wwwroot\css\open-iconic\font\fonts\open-iconic.svg
+wwwroot\css\open-iconic\font\fonts\open-iconic.ttf
+wwwroot\css\open-iconic\font\fonts\open-iconic.woff
+wwwroot\css\open-iconic\FONT-LICENSE
+wwwroot\css\open-iconic\ICON-LICENSE
+wwwroot\css\open-iconic\README.md
+wwwroot\favicon.ico

@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "PIMS.Client\\PIMS.Client.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "PIMS.Server\\PIMS.Server.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

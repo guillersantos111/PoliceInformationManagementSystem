@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Projects\\PoliceInformationManagementSystem\\PIMS\\PIMS.Client\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\PIMS.Client.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PIMS.Client.hpg4di9jyv.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Projects\\PoliceInformationManagementSystem\\PIMS\\PIMS.Client\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\Projects\\PoliceInformationManagementSystem\\PIMS\\PIMS.Client\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "D:\\Projects\\PoliceInformationManagementSystem\\PIMS\\PIMS.Client\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "D:\\Projects\\PoliceInformationManagementSystem\\PIMS\\PIMS.Client\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "D:\\Projects\\PoliceInformationManagementSystem\\PIMS\\PIMS.Client\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\PoliceInformationManagementSystem\\PIMS\\PIMS.Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "D:\\Projects\\PoliceInformationManagementSystem\\PIMS\\PIMS.Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "D:\\Projects\\PoliceInformationManagementSystem\\PIMS\\PIMS.Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "D:\\Projects\\PoliceInformationManagementSystem\\PIMS\\PIMS.Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "D:\\Projects\\PoliceInformationManagementSystem\\PIMS\\PIMS.Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "D:\\Projects\\PoliceInformationManagementSystem\\PIMS\\PIMS.Client\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.PIMS.Client.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.PIMS.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.PIMS.Client.props",
+      "PackagePath": "build\\PIMS.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.PIMS.Client.props",
+      "PackagePath": "buildMultiTargeting\\PIMS.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.PIMS.Client.props",
+      "PackagePath": "buildTransitive\\PIMS.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
